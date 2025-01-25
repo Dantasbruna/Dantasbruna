@@ -33,7 +33,7 @@
 </div>
 
 ###
-<h3 align="left">💻 Atualmente estudando</h3>
+<h3 align="left">📚Estudando</h3>
 
 ###
 
@@ -47,3 +47,4 @@
 
 ###
 ###
+
