@@ -47,7 +47,7 @@
 
 ### 
 
-<img src="https://raw.githubusercontent.com/Dantasbruna/Dantasbruna/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ###
