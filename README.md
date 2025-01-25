@@ -5,8 +5,9 @@
 
 ###
 
-<h3 align="left">Olá,mundo! 🚀</h3>
+<h3 align="center">Olá, mundo! 🚀</h3>
 
+###
 ###
 👋 Olá, sou Bruna Dantas!
 - 💡 Atualmente, estou aprendendo HTML, CSS e JavaScript para criar interfaces modernas e funcionais.
