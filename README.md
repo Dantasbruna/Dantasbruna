@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">💡 Estudando HTML, CSS e JavaScript para transformar ideias em interfaces modernas e funcionais.<br><br>🎯 Sonho grande: me tornar uma desenvolvedora Front-End que faz a diferença.<br><br>🎬 Amo filmes, séries, doramas e livros que me inspiram a criar.<br><br>☕ Café e 🎵 música são parte da jornada e deixam cada linha de código mais leve.<br><br>📫 Contato: brujandi@gmail.com<br><br>📌 "Cada linha de código me aproxima dos meus sonhos. Nunca parar, sempre evoluir!" 🚀</p>
+<p align="left"> - 💡 Estudando HTML, CSS e JavaScript para transformar ideias em interfaces modernas e funcionais.<br><br> -🎯 Sonho grande: me tornar uma desenvolvedora Front-End que faz a diferença.<br><br>- 🎬 Amo filmes, séries, doramas e livros que me inspiram a criar.<br><br> - ☕ Café e 🎵 música são parte da jornada e deixam cada linha de código mais leve.<br><br>📫 Contato: brujandi@gmail.com<br><br>📌 "Cada linha de código me aproxima dos meus sonhos. Nunca parar, sempre evoluir!" 🚀</p>
 
 ###
 
